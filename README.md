@@ -5,5 +5,5 @@
  https://opensource.org/licenses/MIT
 -->
 
-#tssd1306 Example using BMP280 temperature sensor
+# tssd1306 Example using BMP280 temperature sensor
 This barely fits, good luck!
